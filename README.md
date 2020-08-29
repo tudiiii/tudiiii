@@ -2,8 +2,8 @@
 
 Welcome tudy's github !
 
-- 🔭 My name is sujin, a junior developer working in Seoul.
-- 🌱 I’m currently learning Java and Spring.
+- 🌱 My name is sujin, a junior developer working in Seoul.
+- 😳 I’m currently learning Java and Spring.
 - 👀 Come to see my devNote blog [click! 🕹](tudiiii.github.io/TudyDev/) 
 
 <!--
