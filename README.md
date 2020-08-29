@@ -1,6 +1,6 @@
 ### Hi there I'm tudy 👋
 
-## My devNote url [click! 🕹](diiii.github.io/TudyDev/) 
+- My devNote url [click! 🕹](diiii.github.io/TudyDev/) 
 <!--
 **tudiiii/tudiiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
