@@ -1,22 +1,23 @@
-### Hi there 👋
 
-Welcome tudy's github ! φ(゜▽゜*)♪
+<br>
 
-### 💪 Skills
+# Welcome tudy's github ! ღ'ᴗ'ღ
+
+My name is sujin, a junior developer working in Seoul.
+
+I like music, netflix and shrimp.
+
+
+<br>
+
+## I'm currently learning 💻 🌱
+
+</br>
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 
-<!--
-**tudiiii/tudiiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Java and Spring
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
