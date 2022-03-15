@@ -2,10 +2,9 @@
 
 Welcome tudy's github ! φ(゜▽゜*)♪
 
-- 🌱 My name is sujin, a junior developer working in Seoul.
-- 😳 I’m currently learning Java and Spring.
-- 👀 Come to see my "Today I Learn" blog [click! 🕹](tudiiii.github.io/TudyDev/) 
-- 🌟 I joined an Algorithm study group and a Web study group.
+### 💪 Skills
+
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
 
 <!--
 **tudiiii/tudiiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
