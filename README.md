@@ -1,4 +1,4 @@
-# Welcome tudy's github ! ღ'ᴗ'ღ
+# Welcome tudy's hub ! ღ'ᴗ'ღ
 
 My name is sujin, a junior developer working in Seoul.
 
