@@ -4,7 +4,6 @@ My name is sujin, a junior developer working in Seoul.
 
 I like music, netflix and shrimp.
 
-<br>
 
 ## I'm currently learning 💻 🌱
 
