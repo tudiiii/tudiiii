@@ -1,16 +1,13 @@
 
-<h1 align="center">✨ Welcome tudy's hub ! ღ'ᴗ'ღ ✨</h1>
-   
-<div align=center>
+<h1 >✨ Welcome tudy's hub ! ღ'ᴗ'ღ ✨</h1>
+  
 
-Hi There 👋🏻
-   
-My name is sujin, a junior developer 🚀
+Hi There 👋🏻 My name is sujin, a junior developer 🚀
    
 I like music, netflix and shrimp.
 
 
-<h1 align="center">I'm currently learning 💻 🌱</h1>
+<h2>I'm currently learning 💻 🌱</h2>
 
 <p align="center"> 
  <img alt="Java" src="https://img.shields.io/badge/java-D00000.svg?&style=for-the-badge&logo=java&logoColor=white" />
@@ -25,11 +22,11 @@ I like music, netflix and shrimp.
  <img alt="macOS" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">
 </p>
 
-<h1 align="center">Study and Projects 🎮</h1>
+<h2>Study and Projects 📚👩‍💻</h2>
 
 | Project Name      | Description | 
 | :---:        |    :----   |  
-| [My Blog](https://github.com/cIonecoder/expedia](https://tudiiii.notion.site/TIL-Today-I-Learned-049578108fd7439f90e25e829a431d0e)     | Study Blog
+| [My Blog](https://tudiiii.notion.site/TIL-Today-I-Learned-049578108fd7439f90e25e829a431d0e)     | Study Blog
 | [couple SNS](https://github.com/su-dong-dev/couple-sns)   |Side Project  
    
 
