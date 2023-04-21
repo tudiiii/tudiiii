@@ -4,7 +4,9 @@
 <div align=center>
 
 Hi There 👋🏻
+   
 My name is sujin, a junior developer 🚀
+   
 I like music, netflix and shrimp.
 
 
@@ -27,7 +29,7 @@ I like music, netflix and shrimp.
 
 | Project Name      | Description | 
 | :---:        |    :----   |  
-| [My Blog]([https://github.com/cIonecoder/expedia](https://tudiiii.notion.site/TIL-Today-I-Learned-049578108fd7439f90e25e829a431d0e))     | Study Blog
+| [My Blog](https://github.com/cIonecoder/expedia](https://tudiiii.notion.site/TIL-Today-I-Learned-049578108fd7439f90e25e829a431d0e)     | Study Blog
 | [couple SNS](https://github.com/su-dong-dev/couple-sns)   |Side Project  
+   
 
- <h1 align="center">Let's Get Connected 📮</h1>
