@@ -1,12 +1,14 @@
 
 <h1 >✨ Welcome tudy's hub ! ღ'ᴗ'ღ ✨</h1>
-  
+
+<br/>
 
 Hi There 👋🏻 My name is sujin, a junior developer 🚀
    
 I like music, netflix and shrimp.  
 
 
+<br/>
 
 
 <h2>I'm currently learning 💻 🌱</h2>
@@ -25,7 +27,7 @@ I like music, netflix and shrimp.
 </p>
 
 
-
+<br/>
 
 
 <h2>Study and Projects 📚👩‍💻</h2>
