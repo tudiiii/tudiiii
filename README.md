@@ -7,9 +7,11 @@ Hi There 👋🏻 My name is sujin, a junior developer 🚀
 I like music, netflix and shrimp.
 
 
+
+
 <h2>I'm currently learning 💻 🌱</h2>
 
-<p align="center"> 
+<p> 
  <img alt="Java" src="https://img.shields.io/badge/java-D00000.svg?&style=for-the-badge&logo=java&logoColor=white" />
  <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
  <img alt="Junit5" src="https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=Junit5&logoColor=blue">
@@ -21,6 +23,8 @@ I like music, netflix and shrimp.
  <img alt="IntelliJIDEA" src="https://img.shields.io/badge/IntelliJIDEA-8Fc8F8.svg?style=for-the-badge&logo=intellij-idea&logoColor=black" />
  <img alt="macOS" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">
 </p>
+
+
 
 <h2>Study and Projects 📚👩‍💻</h2>
 
