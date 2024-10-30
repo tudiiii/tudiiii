@@ -4,9 +4,6 @@
 <br/>
 
 Hi There 👋🏻 My name is sujin, a junior developer 🚀
-   
-I like music, netflix and shrimp.  
-
 
 <br/>
 
@@ -36,6 +33,5 @@ I like music, netflix and shrimp.
 | Project Name      | Description | 
 | :---:        |    :----   |  
 | [TIL : Today, I Learned ](https://tudiiii.notion.site/TIL-Today-I-Learned-1504d75e1bd445ac85fd48574d8d7b83)     | A blog that records things I studied
-| [couple SNS](https://github.com/su-dong-dev/couple-sns)   | SpringBoot based Side Project 
    
 
